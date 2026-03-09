@@ -2,6 +2,6 @@
 
 Hardware: Dell Optiplex
 
-CPU: Intel 15 6th gen
+CPU: Intel i5 6th gen
 
 RAMÑ 16GB DDR4
