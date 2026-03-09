@@ -1,9 +1,15 @@
 # Frigate
 
-Hardware: Dell Optiplex
+Hardware: Dell Optiplex 3046
 
 CPU: Intel i5 6th gen
 
 GPU: Intel HD Graphics 530 @ 1.15 GHz [Integrated]
 
-RAMÑ 16GB DDR4
+RAM 16GB DDR4
+
+# Cameras
+
+Front Door - Reolink POE Doorbell (Black)
+
+Livingroom - Relink RLC-510A
