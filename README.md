@@ -1,5 +1,9 @@
 # Frigate
 
+OS: Debian 13 (Trixie)
+
+Containers on CasaOS
+
 Hardware: Dell Optiplex 3046
 
 CPU: Intel i5 6th gen
